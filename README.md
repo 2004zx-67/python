@@ -67,4 +67,17 @@
       plt.title("穿越火线赛事舆情热度趋势")  
       plt.xlabel("时间")  
       plt.ylabel("热度值")  
-      plt.show()  
+      plt.show()
+
+  
+ ## 四、重要工具
+
+### 1. Python库
+- pandas（数据处理）
+- matplotlib/seaborn（可视化）
+- scipy（统计分析）
+
+
+### 3. 技术亮点
+- 情感分析（NLP 提取 “青春”“感动” 等高频词
+-GIS 空间分析
